@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+  'Programação',
+    'O que é substituição de método?',
+    'Na programação orientada a objetos, a substituição de método permite que a subclasse/classe filha redefina os métodos dentro da classe pai/base.    '
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+'Programação',
+    'O que é um algoritmo?',
+    'é um conjunto de instruções, como uma receita de bolo, constituído de um número finito de passos. Para que os dados sejam processados, há a necessidade de se utilizar uma linguagem de programação, pois os computadores não executam diretamente os algoritmos.'
 )
